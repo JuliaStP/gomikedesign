@@ -377,7 +377,7 @@ a:hover {
 
 @media (min-width: 768px) {
     .site-navigation {
-        position: absolute;
+        /* position: absolute; */
         top: 50%;
         right: 20px;
         transform: translate(0, -50%);
@@ -750,6 +750,22 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+}
+
+
+.img-logo {
+    height: 40px;
+    width: auto;
+}
+
+.img-logo-1 {
+    width: 100px;
+    height: auto;
+}
+
+.img-responsive {
+    width: 100%;
+    height: auto;
 }
 
 .portfolio-thumb {
