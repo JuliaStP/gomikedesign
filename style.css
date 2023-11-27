@@ -752,7 +752,6 @@ h4 {
     color: #FFFFFF!important;
 }
 
-
 .img-logo {
     height: 40px;
     width: auto;
@@ -1074,4 +1073,8 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.text-black {
+    color: #000000 !important;
 }
